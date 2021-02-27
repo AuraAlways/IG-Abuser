@@ -1,0 +1,11 @@
+C:\Users\Aura\source\repos\Abuse\Abuse\bin\Debug\Abuse.exe.config
+C:\Users\Aura\source\repos\Abuse\Abuse\bin\Debug\Abuse.exe
+C:\Users\Aura\source\repos\Abuse\Abuse\bin\Debug\Abuse.pdb
+C:\Users\Aura\source\repos\Abuse\Abuse\bin\Debug\Colorful.Console.dll
+C:\Users\Aura\source\repos\Abuse\Abuse\obj\Debug\Abuse.csprojAssemblyReference.cache
+C:\Users\Aura\source\repos\Abuse\Abuse\obj\Debug\Abuse.csproj.CoreCompileInputs.cache
+C:\Users\Aura\source\repos\Abuse\Abuse\obj\Debug\Abuse.csproj.CopyComplete
+C:\Users\Aura\source\repos\Abuse\Abuse\obj\Debug\Abuse.exe
+C:\Users\Aura\source\repos\Abuse\Abuse\obj\Debug\Abuse.pdb
+C:\Users\Aura\source\repos\Abuse\Abuse\bin\Debug\WebDriver.dll
+C:\Users\Aura\source\repos\Abuse\Abuse\bin\Debug\WebDriver.xml
